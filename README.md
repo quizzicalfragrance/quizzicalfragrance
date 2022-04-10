@@ -1,1 +1,1 @@
-https://heroku.com/deploy?template=
+https://heroku.com/deploy?template=/tree/main
