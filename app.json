@@ -28,7 +28,7 @@
      },
      "SSLINK": {
        "description": "link",
-       "generator": "link"
+       "generator": "secret"
      }
   },
   "website": "",
